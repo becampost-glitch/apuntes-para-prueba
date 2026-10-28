@@ -1,0 +1,5 @@
+# SOLO SE USA SI EN LA PRUEBA PIDE HACERLO PARA CADA UNO POR SEPARADO 
+# terraform apply -target=module.vpc
+# terraform apply -target=module.ec2
+# terraform apply -target=module.s3
+# terraform apply -target=module.alb
