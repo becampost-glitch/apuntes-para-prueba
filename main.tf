@@ -2,7 +2,6 @@ provider "aws" {
   region = var.region
 }
 
-# Variables locales (Locals)
 locals {
   environment = "practica"
 }
